@@ -1,5 +1,5 @@
 # dsepythonprojectcourse1
-1. usage of GitHub
+1. usage of GitHub (done)
 2. correct modularisation
 3. import and output of data
 4. usage of a data manipulation library (e.g. pandas)
